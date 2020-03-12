@@ -1,0 +1,6 @@
+PodsApp -> iOS housing application integrating Apple's Map Kit, Firebase, and housing data from Zillow's API.
+
+Swift files seperated by usage: Podsapp contains classes on organization of application, housing data and display data; Pods contians data
+on users and groupings of people and houses we call 'Pods'.
+
+Some unit tests included in directorys labeled tests.
